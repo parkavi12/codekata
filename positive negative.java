@@ -3,10 +3,10 @@
  {
      public static void main(String[] args)
      {
-         int number=4;
-         if(number>0)
+         int num=4;
+         if(num>0)
          {
-             if(number%2==0)
+             if(num%2==0)
              
              {
                  System.out.println("even");
