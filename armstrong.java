@@ -4,10 +4,10 @@ public class armstrong
     public static void main(String args[])
     { 
         Scanner input =new Scanner(System.in);
-        int n=input.nextInt();
+         int n=input.nextInt();
         int c=0,a,temp;  
     
-    temp=n;  
+    temp=n;   
     while(n>0)  
     {  
     a=n%10;  
