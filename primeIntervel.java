@@ -4,11 +4,11 @@ public class primeIntervel
     static boolean isprime(int num)
     {
         int flag=0;
-        for(int i=2;i<num;i++)
+         for(int i=2;i<num;i++)
         {
             if(num%i==0)
             {
-                flag++;
+                flag++;  
             }
         }
         if(flag==0)
