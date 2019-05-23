@@ -1,5 +1,5 @@
 import java.util.*;
-public class ArmstrongIntervel
+public class ArmsIntervel
 {  
     static boolean Armstrong(int n)
     {
