@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class ArmstrongIntervel
 {  
     static boolean Armstrong(int n)
     {
