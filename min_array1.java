@@ -1,5 +1,5 @@
 import java.util.*;
-public class min_array
+public class min_array1
 {
 	public static void main(String arg[])
 	{
