@@ -1,6 +1,6 @@
     
  import java.util.Scanner; 
-class sap{  
+public class arithmeti{  
     static int sumOfAP(int a, int d, int n) 
     { 
         int sum = 0; 
