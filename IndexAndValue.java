@@ -10,14 +10,10 @@ public class IndexAndValue
 		{
 			arr[i]=input.nextInt();
 		}	
-		// Arrays.sort(arr);
+			// Arrays.sort(arr);
 		for(int i=0;i<n;i++)
 		{
-			System.out.print(arr[i]+" "+i);
-			if(i<n-1)
-			{
-				System.out.print(" ");
-			}
+			System.out.println(arr[i]+" "+i);
 		}
 	}
 }
